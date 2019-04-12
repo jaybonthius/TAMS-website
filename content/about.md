@@ -8,5 +8,4 @@ menu:
 
 ---
 
-
-Put a short blurb here describing how people can contact TAMS representatives.
+Put a blurb here describing the organization and its purpose.
