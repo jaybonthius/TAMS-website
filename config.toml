@@ -1,5 +1,5 @@
 title = "TAMS @ UCSD"
-baseURL = "https://example.com"
+baseURL = "https://tams-ucsd.netlify.com"
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
 themesDir = "themes/"
