@@ -1,6 +1,7 @@
 ---
-title: "Ananke: a Hugo Theme"
-featured_image: '/images/gohugo-default-sample-hero-image.jpg'
-description: "The last theme you'll ever need. Maybe."
+title: "Tritons Against Modern Slavery"
+featured_image: '/images/home-banner.jpg'
+description: "A short description of TAMS @ UCSD"
 ---
-Welcome to my blog with some of my work in progress. I've been working on this book idea. You can read some of the chapters below.
+
+This is the home page.  Write home page things here.  A list of recent articles will be inserted below.

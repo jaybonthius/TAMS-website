@@ -1,8 +1,8 @@
 ---
-title: Contact
+title: About
 omit_header_text: true
 type: page
-weight: 3
+weight: 4
 menu:
   main: {}
 
