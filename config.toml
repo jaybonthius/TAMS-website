@@ -1,5 +1,5 @@
 title = "TAMS @ UCSD"
-baseURL = "http://www.tams.ucsd.edu"
+baseURL = "https://tams.ucsd.edu"
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
 themesDir = "themes/"
