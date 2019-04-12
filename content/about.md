@@ -4,8 +4,8 @@ omit_header_text: true
 type: page
 weight: 4
 menu:
-  main: {}
+  main:
+    weight: 4
 
 ---
-
-Put a blurb here describing the organization and its purpose.
+Put a blurb here describing the organization and its purpose!
