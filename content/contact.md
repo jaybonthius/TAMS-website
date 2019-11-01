@@ -2,11 +2,10 @@
 title: Contact
 omit_header_text: true
 type: page
-weight: 3
+weight: "3"
 menu:
-  main: {}
+  main:
+    weight: 3
 
 ---
-
-
-Put a short blurb here describing how people can contact TAMS representatives.
+You can contact us at TAMS by emailing TAMS.ucsd@gmail.com, or find us on facebook at TAMS! 
