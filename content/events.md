@@ -2,20 +2,12 @@
 title: Events
 omit_header_text: true
 type: page
-weight: 1
+weight: "1"
 menu:
-  main: {}
+  main:
+    weight: 1
 
 ---
-
-## Upcoming events:
-
- - one
- - two
- - three
-
 ## Past Events:
 
- - four
- - five
- - six
+* Volunteer effort of massage parlor sweep, in partnership with local San Diego organization
